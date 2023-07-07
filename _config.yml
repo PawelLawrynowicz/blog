@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: "/"
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: pwl.github.me                                  # site's title
+description: "A personal blog about microcontrollers and AI!"      # used by search engines
+avatar: assets/img/chip.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Cute header for Carmen :*  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
